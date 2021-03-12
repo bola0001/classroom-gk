@@ -1,5 +1,4 @@
-![배경화면](https://user-images.githubusercontent.com/80081693/110884509-8ba97080-8328-11eb-8455-06c560b82454.jpg)
-![아크릴 사진 1](https://user-images.githubusercontent.com/80081693/110884492-84826280-8328-11eb-91e6-46c26db936ec.jpg)
+![배경화면](https://user-images.githubusercontent.com/80081693/110884509-8ba97080-8328-11eb-8455-06c560b82454.jpg
 # classroom-gk
 > This is a first blockqute.  
 >	> This is a second blockqute.
