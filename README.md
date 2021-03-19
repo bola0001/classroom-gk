@@ -6,4 +6,4 @@
 
 [동영상](https://www.youtube.com/watch?v=AYsJOXqR16c)
 
-[![이미지](https://search.pstatic.net/sunny/?src=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1650497103%2Fthumb%2F20190306143226&type=sc960_832)(https://www.youtube.com/watch?v=AYsJOXqR16c)]
+[![이미지](https://search.pstatic.net/sunny/?src=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1650497103%2Fthumb%2F20190306143226&type=sc960_832)](https://www.youtube.com/watch?v=AYsJOXqR16c)
